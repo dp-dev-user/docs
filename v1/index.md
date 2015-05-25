@@ -1,6 +1,8 @@
 ADDb APi Documentation
 ======================
 
+Daaa...!!!
+
 ADDb stands for **A**bsolut **D**rinks **D**ata**b**ase and is an Application Programming Interface (APi) for [ABSOLUT's](http://www.absolut.com/) drink recipes and other related assets.
 
 Applications currently using the API and the image and video assets include:
@@ -14,11 +16,11 @@ Suggestions for new features or feedback on the API and the documentation can be
 ## Base URL
 All the URLs mentioned in this docs have the following base
 
-> http://addb.absolutdrinks.com
+&gt; http://addb.absolutdrinks.com
 
 or secure variant
 
-> https://addb.absolutdrinks.com
+&gt; https://addb.absolutdrinks.com
 
 ## Getting Started with ADDb
 Before using ADDb, you ought to read the *Getting Started* section. Starting with the [responses](/drinks-api/docs/v1/getting-started/responses) section
