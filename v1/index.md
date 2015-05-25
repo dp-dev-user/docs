@@ -1,8 +1,6 @@
 ADDb APi Documentation
 ======================
 
-Daaa...!!!
-
 ADDb stands for **A**bsolut **D**rinks **D**ata**b**ase and is an Application Programming Interface (APi) for [ABSOLUT's](http://www.absolut.com/) drink recipes and other related assets.
 
 Applications currently using the API and the image and video assets include:
