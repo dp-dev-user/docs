@@ -1,6 +1,3 @@
-ADDb APi Documentation1
+ADDb APi Documentation
 ======================
-test
-
-hbi
 
