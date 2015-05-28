@@ -1,4 +1,4 @@
 ADDb APi Documentation
 ======================
 
-12
+This is the start page, regardless of version of the API.
