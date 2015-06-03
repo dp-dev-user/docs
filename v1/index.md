@@ -7,7 +7,7 @@ Applications currently using the API and the image and video assets include:
 
 **[absolutdrinks.com](http://www.absolutdrinks.com)**
 
-**[Drinkspiration](https://itunes.apple.com/se/app/drinkspiration-by-absolut/id320379903?mt=8)** - iOS applicationefwerwer
+**[Drinkspiration](https://itunes.apple.com/se/app/drinkspiration-by-absolut/id320379903?mt=8)** - iOS application
 
 Suggestions for new features or feedback on the API and the documentation can be sent to [interactive@absolut.com](mailto:interactive@absolut.com).
 
