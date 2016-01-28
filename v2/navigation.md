@@ -3,11 +3,13 @@
 - [Docs Home](/drinks-api/docs/v2/index.md)
 
 ## Getting Started
-- [Sign up](/drinks-api/docs/v2/signup/)
+- [Sign up](/drinks-api/docs/v2/signup/)- Yello!
 - [Responses](/drinks-api/docs/v2/getting-started/responses.md)
 - [Internationalization](/drinks-api/docs/v2/getting-started/i18n.md)
 - [Paging](/drinks-api/docs/v2/getting-started/paging.md)
 - [Authentication](/drinks-api/docs/v2/getting-started/authentication.md)
+
+## What ya want
 
 ## Client Libraries
 - [JavaScript](/drinks-api/docs/v2/clients/addb-js/index.md)
