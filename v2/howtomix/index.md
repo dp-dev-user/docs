@@ -1,5 +1,6 @@
 (DEPRECATED) ﻿How To Mix
-==========The **How To Mix** resource is a step-by-step description on how to make the drink.
+==========
+The **How To Mix** resource is a step-by-step description on how to make the drink.
 
 ### Resource Properties
 &lt;table&gt;
