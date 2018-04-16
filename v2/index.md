@@ -14,11 +14,11 @@ Suggestions for new features or feedback on the API and the documentation can be
 ## Base URL
 All the URLs mentioned in this docs have the following base
 
-> http://addb.absolutdrinks.com
+&gt; http://addb.absolutdrinks.com/v2/
 
 or secure variant
 
-> https://addb.absolutdrinks.com
+&gt; https://addb.absolutdrinks.com/v2/
 
 ## Getting Started with ADDb
 Before using ADDb, you ought to read the *Getting Started* section. Starting with the [responses][] section
