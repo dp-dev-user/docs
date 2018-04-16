@@ -1,120 +1,120 @@
-﻿I'll Have One
+﻿(DEPRECATED) I'll Have One
 =============
 
 ### Resource Properties
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Description</th>
-            <th>Returns</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>id</td>
-            <td>the id of the I'll Have One</td>
-            <td>number</td>
-        </tr>
-        <tr>
-            <td>latitude</td>
-            <td>the latitude of this I'll Have One was made from (if any)</td>
-            <td>number</td>
-        </tr>
-        <tr>
-            <td>longitude</td>
-            <td>the latitude of this I'll Have One was made from (if any)</td>
-            <td>number</td>
-        </tr>
-        <tr>
-            <td>city</td>
-            <td>the city this I'll Have One was made from</td>
-            <td>string</td>
-        </tr>
-		<tr>
-            <td>countryCode</td>
-            <td>the country code this I'll Have One was made from</td>
-            <td>string</td>
-        </tr>
-		<tr>
-            <td>region</td>
-            <td>the region this I'll Have One was made from</td>
-            <td>string</td>
-        </tr>
-        <tr>
-            <td>country</td>
-            <td>the country this I'll Have One was made from</td>
-            <td>string</td>
-        </tr>
-        <tr>
-            <td>facebookId</td>
-            <td>the facebook id of the person that made this I'll Have One*</td>
-            <td>number</td>
-        </tr>
-        <tr>
-            <td>timeStamp</td>
-            <td>the date/time this I'll Have One was made</td>
-            <td>json date</td>
-        </tr>
-        <tr>
-            <td>drink</td>
-            <td>the drink that was ordered</td>
-            <td><a href="/drinks-api/docs/v2/general/entity-reference">entity reference</a> to <a href="/drinks-api/docs/v2/drinks">drink</a></td>
-        </tr>
-        <tr>
-            <td>app</td>
-            <td>the app that was used when the drink was ordered</td>
-            <td>string</td>
-        </tr>
-		 <tr>
-            <td>version</td>
-            <td>**the version??**</td>
-            <td>string</td>
-        </tr>
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Name&lt;/th&gt;
+            &lt;th&gt;Description&lt;/th&gt;
+            &lt;th&gt;Returns&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;id&lt;/td&gt;
+            &lt;td&gt;the id of the I'll Have One&lt;/td&gt;
+            &lt;td&gt;number&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;latitude&lt;/td&gt;
+            &lt;td&gt;the latitude of this I'll Have One was made from (if any)&lt;/td&gt;
+            &lt;td&gt;number&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;longitude&lt;/td&gt;
+            &lt;td&gt;the latitude of this I'll Have One was made from (if any)&lt;/td&gt;
+            &lt;td&gt;number&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;city&lt;/td&gt;
+            &lt;td&gt;the city this I'll Have One was made from&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+		&lt;tr&gt;
+            &lt;td&gt;countryCode&lt;/td&gt;
+            &lt;td&gt;the country code this I'll Have One was made from&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+		&lt;tr&gt;
+            &lt;td&gt;region&lt;/td&gt;
+            &lt;td&gt;the region this I'll Have One was made from&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;country&lt;/td&gt;
+            &lt;td&gt;the country this I'll Have One was made from&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;facebookId&lt;/td&gt;
+            &lt;td&gt;the facebook id of the person that made this I'll Have One*&lt;/td&gt;
+            &lt;td&gt;number&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;timeStamp&lt;/td&gt;
+            &lt;td&gt;the date/time this I'll Have One was made&lt;/td&gt;
+            &lt;td&gt;json date&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;drink&lt;/td&gt;
+            &lt;td&gt;the drink that was ordered&lt;/td&gt;
+            &lt;td&gt;&lt;a href="/drinks-api/docs/v2/general/entity-reference"&gt;entity reference&lt;/a&gt; to &lt;a href="/drinks-api/docs/v2/drinks"&gt;drink&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;app&lt;/td&gt;
+            &lt;td&gt;the app that was used when the drink was ordered&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+		 &lt;tr&gt;
+            &lt;td&gt;version&lt;/td&gt;
+            &lt;td&gt;**the version??**&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
 		version
-        <tr>
-            <td>facebookAuthToken</td>
-            <td>the facebook authentication token of the person that made this I'll Have One</td>
-            <td>string</td>
-        </tr>
-    </tbody>
-</table>
+        &lt;tr&gt;
+            &lt;td&gt;facebookAuthToken&lt;/td&gt;
+            &lt;td&gt;the facebook authentication token of the person that made this I'll Have One&lt;/td&gt;
+            &lt;td&gt;string&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
 
 ## HTTP(s) GET Operations
 #### Listing I'll Have Ones
 
-> /illhaveones/
+&gt; /illhaveones/
 
 #### Listing New I'll Have Ones
 *Usable for polling, will only return newer than id provided*
 
-> /illhaveones/?fromId=800000
+&gt; /illhaveones/?fromId=800000
 
 ## Filtering Queries
 ### By Location
 #### By Country
 
-> /illhaveones/incountry/*country*/
+&gt; /illhaveones/incountry/*country*/
 
 #### By City
 
-> /illhaveones/incity/*city*/
+&gt; /illhaveones/incity/*city*/
 
 #### By Latitude/Longitude (1000m)
 
-> /illhaveones/near/*lat*,*lng*/
+&gt; /illhaveones/near/*lat*,*lng*/
 
 #### By Latitude/Longitude (Custom Radius)
 
-> /illhaveones/near/*lat*,*lng*,*radius*/
+&gt; /illhaveones/near/*lat*,*lng*,*radius*/
 
 ### By Drink
 
-> /illhaveones/fordrink/*drink_ids*/
+&gt; /illhaveones/fordrink/*drink_ids*/
 
 ### By Application Submitted
 
-> /illhaveones/byedition/*edition_id*/
+&gt; /illhaveones/byedition/*edition_id*/
 
 ## JavaScript Client Library
 #### Listing I'll Have Ones
