@@ -4,7 +4,8 @@
 *The **How To Mix** resource is a step-by-step description on how to make the drink.*
 
 
-### Resource Properties&lt;table&gt;
+### Resource Properties
+&lt;table&gt;
     &lt;thead&gt;
         &lt;tr&gt;
             &lt;th&gt;Name&lt;/th&gt;
