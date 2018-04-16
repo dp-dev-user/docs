@@ -2,83 +2,21 @@
 =============
 
 ### Resource Properties
-&lt;table&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-            &lt;th&gt;Name&lt;/th&gt;
-            &lt;th&gt;Description&lt;/th&gt;
-            &lt;th&gt;Returns&lt;/th&gt;
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;id&lt;/td&gt;
-            &lt;td&gt;the id of the I'll Have One&lt;/td&gt;
-            &lt;td&gt;number&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;latitude&lt;/td&gt;
-            &lt;td&gt;the latitude of this I'll Have One was made from (if any)&lt;/td&gt;
-            &lt;td&gt;number&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;longitude&lt;/td&gt;
-            &lt;td&gt;the latitude of this I'll Have One was made from (if any)&lt;/td&gt;
-            &lt;td&gt;number&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;city&lt;/td&gt;
-            &lt;td&gt;the city this I'll Have One was made from&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-		&lt;tr&gt;
-            &lt;td&gt;countryCode&lt;/td&gt;
-            &lt;td&gt;the country code this I'll Have One was made from&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-		&lt;tr&gt;
-            &lt;td&gt;region&lt;/td&gt;
-            &lt;td&gt;the region this I'll Have One was made from&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;country&lt;/td&gt;
-            &lt;td&gt;the country this I'll Have One was made from&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;facebookId&lt;/td&gt;
-            &lt;td&gt;the facebook id of the person that made this I'll Have One*&lt;/td&gt;
-            &lt;td&gt;number&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;timeStamp&lt;/td&gt;
-            &lt;td&gt;the date/time this I'll Have One was made&lt;/td&gt;
-            &lt;td&gt;json date&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;drink&lt;/td&gt;
-            &lt;td&gt;the drink that was ordered&lt;/td&gt;
-            &lt;td&gt;&lt;a href="/drinks-api/docs/v2/general/entity-reference"&gt;entity reference&lt;/a&gt; to &lt;a href="/drinks-api/docs/v2/drinks"&gt;drink&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;app&lt;/td&gt;
-            &lt;td&gt;the app that was used when the drink was ordered&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-		 &lt;tr&gt;
-            &lt;td&gt;version&lt;/td&gt;
-            &lt;td&gt;**the version??**&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-		version
-        &lt;tr&gt;
-            &lt;td&gt;facebookAuthToken&lt;/td&gt;
-            &lt;td&gt;the facebook authentication token of the person that made this I'll Have One&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
+Name|Description|Returns
+--- | --- | ---
+id|the id of the I'll Have One|number
+latitude|the latitude of this I'll Have One was made from (if any)|number
+longitude|the latitude of this I'll Have One was made from (if any)|number
+city|the city this I'll Have One was made from|string
+countryCode|the country code this I'll Have One was made from|string
+region|the region this I'll Have One was made from|string
+country|the country this I'll Have One was made from|string
+facebookId|the facebook id of the person that made this I'll Have One*|number
+timeStamp|the date/time this I'll Have One was made|json date
+drink|the drink that was ordered|entity reference to drink
+app|the app that was used when the drink was ordered|string
+version|the version??|string
+facebookAuthToken|the facebook authentication token of the person that made this I'll Have One|string
 
 ## HTTP(s) GET Operations
 #### Listing I'll Have Ones
