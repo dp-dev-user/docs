@@ -7,32 +7,11 @@ Example of use: All drinks on the articles of absolutdrinks.com are chosen and t
 Look here for example: &lt;http://www.absolutdrinks.com/en/inspiration/know-one-collins-and-you-know-them-all/&gt;
 
 ## Resource Properties
-&lt;table&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-            &lt;th&gt;Name&lt;/th&gt;
-            &lt;th&gt;Description&lt;/th&gt;
-            &lt;th&gt;Returns&lt;/th&gt;
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td&gt;name&lt;/td&gt;
-            &lt;td&gt;the name of the tag&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;owner&lt;/td&gt;
-            &lt;td&gt;the app that created this tag&lt;/td&gt;
-            &lt;td&gt;string&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;count&lt;/td&gt;
-            &lt;td&gt;how many drinks it's applied to&lt;/td&gt;
-            &lt;td&gt;number&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
+Name|Description|Returns
+--- | --- | ---
+name|the name of the tag|string
+owner|the app that created this tag|string
+count|how many drinks it's applied to|number
 
 ## Managing tags
 To create a tag as an app owner you need to log into the [App Admin][].
